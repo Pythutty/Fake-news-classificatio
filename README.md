@@ -1,1 +1,1 @@
-# Fake-news-classificatio
+# Fake-news-classification
